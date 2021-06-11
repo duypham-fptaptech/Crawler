@@ -1,0 +1,6 @@
+C:\Users\hp\RiderProjects\Lap3\Lap3\bin\Debug\Lap3.exe
+C:\Users\hp\RiderProjects\Lap3\Lap3\bin\Debug\Lap3.pdb
+C:\Users\hp\RiderProjects\Lap3\Lap3\obj\Debug\Lap3.csprojAssemblyReference.cache
+C:\Users\hp\RiderProjects\Lap3\Lap3\obj\Debug\Lap3.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\Lap3\Lap3\obj\Debug\Lap3.exe
+C:\Users\hp\RiderProjects\Lap3\Lap3\obj\Debug\Lap3.pdb
